@@ -1,2 +1,0 @@
-[Lidgren.Network]  			:  The MIT License (MIT)		https://code.google.com/p/lidgren-network-gen3/
-[Lidgren XNA Extensions]	:  The MIT License (MIT)		https://code.google.com/p/lidgren-network-gen3/		

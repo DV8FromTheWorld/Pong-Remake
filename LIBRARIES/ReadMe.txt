@@ -1,1 +1,0 @@
-None of these libraries belong to me.
